@@ -10,6 +10,7 @@ import log from '../images/Login.png';
 import utii from '../images/uti.png';
 import tic from '../images/TicTac.png';
 import real from '../images/Real.png';
+import gssoc from '../images/GSSOC-Extd.png';
 export const Bio = {
   name: "Aayush Narnoli",
   roles: [
@@ -192,7 +193,7 @@ export const experiences = [
       "OAuth",
       "JWT",
     ],
-  }
+  },
 //   {
 //     id: 1,
 //     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
@@ -269,14 +270,14 @@ export const experiences = [
 //       "Figma",
 //     ],
 //   },
-//   {
-//     id: 5,
-//     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-//     role: "Open Source Contributor ",
-//     company: "GirlScript Summer of Code",
-//     date: "May 2023 - Present",
-//     desc: "Contributed to different open-source projects and learn from industry experts",
-//   },
+  {
+    id: 5,
+    img: gssoc,
+    role: "Open Source Contributor ",
+    company: "GirlScript Summer of Code",
+    date: "October 2024 - Present",
+    desc: "Contributed to different open-source projects and learn from industry experts",
+  },
  ];
 
 export const education = [
