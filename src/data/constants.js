@@ -335,18 +335,13 @@ export const projects = [
     description:
       "This Real-Time Location Tracker is a web-based application that uses Leaflet.js for map rendering and Socket.IO for real-time communication. Users’ locations are tracked via Geolocation API and displayed dynamically on a map. Built with Node.js and Express, the project supports multiple users, enabling real-time updates and tracking on connected devices.",
     image:real,
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
+    tags:[
+      "Geolocation API",
+      "Socket.IO",
+      "Leaflet.js",
       "Node Js",
       "Express Js",
-      "Redux",
+      
     ],
     category: "web app",
     github: "https://github.com/rishavchanda/Trackify",
